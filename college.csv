@@ -1,0 +1,317 @@
+,College Name,College Location,Course,Fee in Lakhs,Public university,Scholarship,Accommodation,IELTS Score
+0,Indiana University-Purdue University Indianapolis, Indianapolis ,M.S. in Computational Data Science (Computer & Information Science),14.1,Yes,No,Yes,6.5
+1,Texas A & M University, College Station ,Master of Science in Computer Engineering (STEM),25.7,Yes,No,Yes,6.0
+2,Harvard University, Cambridge ,MS in Computational Science and Engineering,57.9,No,No,Yes,6.5
+3,Arizona State University, Tempe ,MS Computer Science,38.9,Yes,No,Yes,6.5
+4,The University of Illinois at Chicago, Chicago ,MS in Computer Science,28.6,Yes,Yes,Yes,6.5
+5,Northeastern University, Boston ,MPS in Applied Machine Intelligence,35.1,No,No,Yes,6.5
+6,Stanford University, Stanford ,Master of Science in Computer Science,51.1,No,No,Yes,6.5
+7,The University of Texas at Dallas, Richardson ,Master of Science in Computer Science,40.4,Yes,No,Yes,6.5
+8,New York University, New York ,Master in Computer Science,27.7,No,No,Yes,6.5
+9,University of New Haven, West Haven ,M.S in Computer Science,30.2,Yes,No,Yes,6.0
+10,University of South Florida, Tampa ,Master of Science in Computer Science,24.5,Yes,No,Yes,6.5
+11,The University of Texas at Austin, Austin ,Master of Science in Engineeringin Software Engineering,14.9,Yes,No,Yes,6.5
+12,University of California - Berkeley Campus, Berkeley ,Master of Science in Computer Science,41.7,Yes,No,Yes,7.0
+13,Georgia Institute of Technology, Atlanta ,Master of Science in Computer Science,30.7,Yes,No,Yes,7.5
+14,University of Southern California, Los Angeles ,Master of Science in Computer Science,43.5,No,No,Yes,6.5
+15,University at Buffalo, Buffalo ,MS Computer Science and Engineering,28.7,Yes,No,Yes,6.5
+16,University of Texas at Arlington, Arlington ,Master of Science in Computer Science,26.5,Yes,No,Yes,6.5
+17,Columbia University, New York ,MS in Computer Science,49.5,No,No,Yes,6.5
+18,California State University Los Angeles Campus, Los Angeles ,MS in Computer Science,23.6,Yes,No,Yes,6.0
+19,Pace University, New York ,"Computer Science, MS (STEM)",33.1,No,No,Yes,6.5
+20,University of Florida, Gainesville ,M.S. in Computer Science,37.1,Yes,No,Yes,7.0
+21,New Jersey Institute of Technology, Newark ,Master of Science in Computer Science,38.1,Yes,No,Yes,6.5
+22,Purdue University, West Lafayette ,Master of Science in Computer Science,30.6,Yes,No,Yes,7.5
+23,University of California - Los Angeles Campus, Los Angeles ,Master of Science in Computer Science,38.7,Yes,No,Yes,7.0
+24,Cleveland State University, Cleveland ,Master of Computer and Information Science in Computer Science,25.3,Yes,No,Yes,6.0
+25,University of Michigan, Ann Arbor ,MS Computer Science and Engineering,57.5,Yes,No,Yes,6.5
+26,California State University Long Beach, Los Angeles ,Master of Science in Computer Science (STEM),22.7,Yes,No,Yes,6.5
+27,Boston University, Boston ,MS in Computer Science,49.2,No,No,Yes,7.0
+28,University of Cincinnati, Cincinnati ,Master of Science in Computer Engineering,33.5,Yes,No,Yes,6.5
+29,San Jose State University, San Jose ,Master of Science in Computer Science,28.4,Yes,No,Yes,6.5
+30,DePaul University, Chicago ,Master of Science in Computer Science,34.7,No,No,Yes,6.5
+31,Illinois Institute of Technology, Chicago ,M.S in Computer Science (MSCS),36.9,No,No,Yes,6.5
+32,University of Houston, Houston ,M.S. in Computer Science,25.3,Yes,No,Yes,6.5
+33,Kent State University, Kent ,Computer Science - M.S.,25.5,Yes,No,Yes,6.0
+34,University of Alabama at Birmingham, Birmingham ,Master of Science in Computer Science,20.3,Yes,No,Yes,6.5
+35,University of Maryland Baltimore County, Baltimore ,M.S. in Computer Science,31.5,Yes,No,Yes,6.5
+36,University of Maryland, College Park ,M.S in Computer Science,30.6,Yes,No,Yes,7.0
+37,New York Institute of Technology, Old Westbury ,"Computer Science, M.S.",34.5,No,No,Yes,6.0
+38,Sacred Heart University, Fairfield ,Master of Science in Computer Science and Information Technology (MSCSIT) (STEM),21.3,No,No,Yes,6.0
+39,Saint Louis University, St. Louis ,MS in Computer Science,28.5,No,No,Yes,6.5
+40,University of Washington, Seattle ,MS in Computer Science & Engineering,37.7,Yes,No,Yes,6.5
+41,University of Central Missouri, Warrensburg ,Master of Science in Computer Science,25.6,Yes,No,Yes,6.0
+42,George Mason University, Fairfax ,Computer Science MS,33.7,Yes,No,Yes,6.5
+43,University of Illinois Springfield, Springfield ,M.S. in Computer Science,21.3,Yes,No,Yes,6.0
+44,Georgia State University, Atlanta ,Master of Science in Computer Science,37.5,Yes,No,Yes,6.0
+45,Wichita State University, Wichita ,Master of Science in Computer Science,13.5,Yes,No,Yes,6.5
+46,University of Pennsylvania, Philadelphia ,"Computer & Information Technology, MCIT",52.3,No,No,Yes,6.5
+47,National University, San Diego ,Master of Science in Computer Science,15.9,No,No,No,6.0
+48,Michigan State University, East Lansing ,Master of Science in Computer Science,32.7,Yes,No,Yes,6.5
+49,Yale University, New Haven ,MS in Computer Science,50.3,No,No,Yes,7.0
+50,University of Illinois at Urbana-Champaign, Champaign ,Master of Science in Computer Science,42.9,Yes,No,Yes,7.5
+51,University of Bridgeport, Bridgeport ,M.S. in Computer Science (STEM),21.8,No,No,Yes,6.5
+52,Cornell University, Ithaca ,MS in Computer Science,45.1,No,No,Yes,7.0
+53,Carnegie Mellon University - USA, Pittsburgh ,M.S. in Computer Science,58.9,No,No,Yes,7.0
+54,University of Dayton, Dayton ,Master of Computer Science,27.5,No,No,Yes,6.5
+55,University of Massachusetts Boston, Boston ,MS Computer Science,43.6,Yes,No,Yes,6.0
+56,Texas Tech University, Lubbock ,MS in Software and Security Engineering,21.7,Yes,No,Yes,6.5
+57,Florida Atlantic University, Boca Raton ,Master of Science in Computer Science,25.7,Yes,No,Yes,6.0
+58,Stevens Institute of Technology, Hoboken ,Master of Science in Computer Science,46.5,No,No,Yes,7.0
+59,Wright State University, Dayton ,Master of Science in Computer Science,23.3,Yes,No,Yes,6.0
+60,Central Michigan University, Mount Pleasant ,Master of Science in Computer Science,17.0,Yes,No,Yes,6.5
+61,Governors State University, University Park ,Master of Science in Computer Science,17.6,Yes,No,Yes,6.0
+62,Rowan University, Glassboro ,M.S. in Computer Science,24.3,Yes,No,Yes,6.0
+63,University of Arizona, Tucson ,MS Computer Science,38.8,Yes,No,Yes,7.0
+64,"California State University, East Bay", Hayward ,M.S in Computer Science (STEM),27.6,Yes,No,Yes,6.5
+65,North Carolina State University, Raleigh ,Master of Science in Computer Science,39.0,Yes,No,Yes,6.5
+66,The University of Chicago, Chicago ,Master of Science in Computer Science,57.4,No,No,Yes,7.0
+67,Duke University, Durham ,M.S in Computer Science,68.0,No,No,Yes,7.0
+68,Florida Institute of Technology, Melbourne ,Master of Science in Computer Science,27.7,No,No,Yes,6.0
+69,University of North Carolina at Charlotte, Charlotte ,Master of Science in Computer Science,26.1,Yes,No,Yes,6.5
+70,University of California - San Diego Campus, San Diego ,Master of Science in Computer Science,40.7,Yes,No,Yes,6.5
+71,Southeast Missouri State University, Cape Girardeau ,M.S in Applied Computer Science,17.4,Yes,No,Yes,6.0
+72,Arkansas State University, Jonesboro ,Master of Science in Computer Science,18.2,Yes,No,Yes,6.0
+73,University of Wisconsin-Madison, Madison ,Computer Sciences M.S,30.1,Yes,No,Yes,7.0
+74,Northwestern University, Evanston ,Master of Science in Computer Engineering,58.2,No,No,Yes,6.5
+75,Missouri State University, Springfield ,Master of Science in Computer Science,19.6,Yes,No,Yes,6.0
+76,Rutgers University, Newark ,M.S. in Computer Science,42.1,Yes,No,Yes,7.0
+77,Indiana University, Bloomington ,Master of Science in Computer Science,39.4,Yes,No,Yes,7.0
+78,The Ohio State University, Columbus ,Master in Computer Science and Engineering,43.7,Yes,No,Yes,7.0
+79,University of Massachusetts Amherst, Amherst ,MS in Computer Science,23.7,Yes,No,Yes,6.5
+80,Florida International University, Miami ,Master of Science in Computer Science,30.0,Yes,No,Yes,6.5
+81,San Diego State University, San Diego ,Master of Science in Computer Science,26.8,Yes,No,Yes,6.5
+82,Stony Brook University, Town of Brookhaven ,M.S. in Computer Science,28.8,Yes,No,Yes,6.5
+83,University of Pittsburgh, Pittsburgh ,Master of Science in Computer Science,39.6,No,No,Yes,7.0
+84,Clark University, Worcester ,Master of Science in Computer Science,30.3,No,No,Yes,6.5
+85,Princeton University, Princeton ,Master of Science in Engineering Computer Science,57.6,No,No,Yes,6.5
+86,University of Missouri–Kansas City, Kansas City ,Master of Science in Computer Science,25.7,Yes,No,Yes,6.0
+87,Colorado State University, Fort Collins ,Master of Computer science,37.2,Yes,No,Yes,6.5
+88,Florida State University, Tallahassee ,MS in Computer Science,28.5,Yes,No,Yes,6.5
+89,Illinois State University, Normal ,Master of Science in Computer Science,27.4,Yes,No,Yes,6.5
+90,California State University Fullerton, Fullerton ,MS in Computer Science,27.4,Yes,No,Yes,6.5
+91,Long Island University, New York ,M.S. in Computer Science,42.1,No,No,Yes,6.5
+92,Texas A&M University–Kingsville, Kingsville ,MS in Computer Science,26.0,Yes,No,Yes,6.0
+93,Northwest Missouri State University, Maryville ,M.S. in Applied Computer Science,7.4,Yes,No,Yes,6.0
+94,Gannon University, Erie ,Master of Science in Computer and Information Science,22.9,No,No,Yes,6.5
+95,University of Georgia, Athens ,Master of Science in Computer Science,25.5,Yes,No,Yes,6.5
+96,Texas A&M University - Corpus Christi, Corpus Christi ,Master of Science in Computer Science,22.4,Yes,No,Yes,6.5
+97,California State University - Fresno Campus, Fresno ,MS in Computer Science,25.3,Yes,No,Yes,6.5
+98,"University of Minnesota, Twin Cities", Minneapolis ,Master of Science in Software Engineering,17.2,Yes,No,Yes,6.5
+99,University of Colorado Boulder, Boulder ,Master of Science in Computer Science,38.2,Yes,No,Yes,6.0
+100,San Francisco State University, San Francisco ,Master of Science in Computer Science,22.9,Yes,No,Yes,6.5
+101,Lewis University, Romeoville ,MS in Computer Science,22.7,No,No,Yes,6.0
+102,California State University Sacramento, Sacramento ,MS in Computer Science,24.7,Yes,No,Yes,6.5
+103,Texas State University, San Marcos ,Master of Science in Computer Science,16.7,Yes,No,Yes,6.5
+104,Oregon State University, Corvallis ,Master of Science in Computer Science,25.5,Yes,No,Yes,6.5
+105,Pennsylvania State University-University Park , State College ,Master of Science in Computer Science and Engineering,49.4,Yes,No,Yes,6.5
+106,Rochester Institute of Technology, Rochester ,MS in Computer Science,54.8,No,No,Yes,6.5
+107,University of Houston - Clear Lake, Pasadena ,Master of Science in Computer Science,25.9,Yes,No,Yes,6.0
+108,University of New Hampshire, Durham ,MS Computer Science,34.4,Yes,No,Yes,6.5
+109,Johns Hopkins University, Baltimore ,M.S.E. in Computer Science,50.2,No,No,Yes,6.0
+110,The University of North Carolina at Chapel Hill, Chapel Hill ,Master of Science in Computer Science,35.4,Yes,No,Yes,7.0
+111,University of Kansas, Lawrence ,Master of Science in Computer Science (MSCS),34.1,Yes,No,Yes,6.5
+112,Syracuse University, Syracuse ,Master of Science in Computer Science,28.4,No,No,Yes,6.0
+113,University at Albany-SUNY, Albany ,M.S. in Computer Science (STEM),37.6,Yes,No,Yes,6.5
+114,Virginia Tech, Blacksburg ,MS in Computer Engineering,24.7,Yes,No,Yes,7.5
+115,University of Central Florida, Orlando ,Master of Science in Computer Science,28.9,Yes,No,Yes,6.5
+116,Lawrence Technological University, Southfield ,Master of Science in Computer Science,20.7,No,No,Yes,6.5
+117,California State University San Bernardino Campus, San Bernardino ,Master of Science in Computer Science,23.0,Yes,No,Yes,6.0
+118,University of California - Irvine Campus, Irvine ,MS Computer Science,32.9,Yes,No,Yes,7.0
+119,University of Michigan-Dearborn, Dearborn ,MS in Software Engineering,25.8,Yes,No,No,6.5
+120,University of California - Riverside Campus, Riverside ,M.S. in Computer Science,31.5,Yes,No,Yes,7.0
+121,Adelphi University, New York ,MS in Computer Science,34.1,No,No,Yes,6.0
+122,The University of Utah, Salt Lake ,Master of Science in Computer Science,24.1,Yes,No,Yes,6.5
+123,Southern Illinois University Edwardsville, Jacksonville ,Master of Science in Computer Science,23.5,Yes,No,Yes,6.5
+124,University of Connecticut, Mansfield ,MS in Computer Science and Engineering,31.5,Yes,No,Yes,6.5
+125,Auburn University, Auburn ,Master of Science in Computer Science and Software Engineering,26.9,Yes,No,Yes,6.5
+126,"University of California, Davis", Davis ,Master of Science in Computer Science,42.1,Yes,No,Yes,7.0
+127,Rice University, Houston ,Master of Computer Science,55.6,No,No,Yes,7.0
+128,University of Virginia, Charlottesville ,Master of Computer Science,37.3,Yes,No,Yes,6.0
+129,Western Michigan University, Kalamazoo ,Master of Science in Computer Science,23.9,Yes,No,Yes,6.5
+130,University of Massachusetts Dartmouth, Dartmouth ,MS in Computer Engineering,16.9,Yes,No,Yes,6.5
+131,State University of New York at New Paltz, New Paltz ,MS in Computer Science,16.0,Yes,No,Yes,6.0
+132,Northern Illinois University, DeKalb ,Master of Science in Computer Science,23.1,Yes,No,Yes,6.5
+133,Auburn University at Montgomery, Montgomery ,MS in Computer Science,21.2,Yes,No,Yes,5.5
+134,Dakota State University, Madison ,Master of Science in Computer Science,8.7,Yes,No,Yes,6.0
+135,University of South Dakota, Vermillion ,Computer Science (M.S),16.1,Yes,No,Yes,6.0
+136,University of Colorado Denver, Denver ,Master of Science in Computer Science,44.7,Yes,No,Yes,6.5
+137,Oklahoma State University, Stillwater ,Master of Science in Computer Science,21.3,Yes,No,Yes,6.5
+138,California State University Northridge, Los Angeles ,Master of Science in Computer Science,22.1,Yes,No,Yes,6.5
+139,University of Rochester, Rochester ,MS Computer Science,44.9,Yes,No,Yes,6.0
+140,Clemson University, Clemson ,M.S. in Computer Science,21.2,Yes,No,Yes,6.5
+141,University of Delaware, Newark ,Master of Science in Computer Science,40.0,Yes,No,Yes,6.5
+142,Eastern Michigan University, Ypsilanti ,Master of Science in Computer Aided Engineering,36.6,Yes,No,Yes,6.5
+143,University of Missouri-St. Louis, St. Louis ,MS Computer Science,23.0,Yes,No,Yes,6.5
+144,"University of California, Santa Barbara", Santa Barbara ,Master of Science in Computer Science,36.3,Yes,No,Yes,7.0
+145,The City College of New York, New York ,M.S. in Computer Science,23.7,Yes,No,Yes,6.5
+146,University of Alabama, Tuscaloosa ,Master of Science in Computer Science,26.3,Yes,No,Yes,6.5
+147,Pacific States University, Los Angeles ,Master of Science in Computer Science,8.0,No,No,Yes,5.5
+148,Eastern Illinois University, Charleston ,Master of Science in Computer Technology,18.6,Yes,No,Yes,6.5
+149,Chicago State University, Chicago ,MS in Computer Science,23.5,Yes,No,Yes,6.0
+150,Santa Clara University, Santa Clara ,M.S. in Computer Science and Engineering,34.5,No,No,Yes,6.5
+151,Drexel University, Philadelphia ,MS Computer Science,34.7,No,No,Yes,6.5
+152,The George Washington University, Washington D.C. ,Master of Science in Computer Science,26.8,No,No,Yes,6.0
+153,Binghamton University, Binghamton ,Master of Science in Computer Science,22.5,Yes,No,Yes,6.5
+154,Iowa State University, Ames ,M.S in Computer Science,32.8,Yes,No,Yes,6.5
+155,University of San Francisco, San Francisco ,Master of Science in Computer Science (MSCS),38.1,No,No,Yes,6.5
+156,Southern Illinois University, Carbondale ,Master of Science in Computer Science,23.5,Yes,No,Yes,6.5
+157,University of Wisconsin–Milwaukee Campus, Milwaukee ,MS in Computer Science,30.1,Yes,No,Yes,6.5
+158,Brown University, Providence ,Master of Science in  Electrical and Computer Engineering,43.6,No,No,Yes,7.0
+159,Bradley University, Peoria ,Master of Computer Science,22.2,No,No,Yes,6.5
+160,University of South Carolina, Columbia ,Master of Science in Computer Science,26.0,Yes,No,Yes,6.5
+161,Rutgers University - New Brunswick, New Brunswick ,MS in Computer Science,24.7,Yes,No,Yes,7.0
+162,Missouri University of Science and Technology, Rolla ,Master of Science in Computer Science,32.2,Yes,No,Yes,6.5
+163,New York University Tandon School of Engineering, New York ,MS in Computer Science,48.2,No,No,Yes,7.0
+164,Northeastern Illinois University, Chicago ,"Computer Science, M.S.",21.8,Yes,No,Yes,6.5
+165,American University, Washington D.C. ,Master of Science in Computer Science,28.3,No,No,Yes,7.0
+166,Fitchburg State University, Amherst ,Master of Science in Computer Science,13.0,Yes,Yes,Yes,6.5
+167,University of Massachusetts Lowell, Lowell ,Master of Science in Computer Science,33.2,Yes,No,Yes,6.5
+168,Washington State University, Pullman ,Master of Science in Computer Science,32.8,Yes,No,Yes,7.0
+169,Mississippi State University, Starkville ,Master of Science (M.S.) in Computer Science,30.5,Yes,No,Yes,6.5
+170,Washington University in St. Louis, St. Louis ,Master of Science (MS) in Computer Engineering,45.0,No,No,Yes,6.5
+171,Franklin University, Columbus ,MS Computer Science,11.0,No,No,Yes,6.5
+172,Georgetown University, Washington D.C. ,MS in Computer Science,49.2,No,No,Yes,7.0
+173,Wayne State University, Detroit ,Master of Science in Computer Engineering,41.7,Yes,No,Yes,6.5
+174,Seattle University, Seattle ,Master of Science in Computer Science,42.1,No,Yes,Yes,6.0
+175,Monroe College, Bronx ,Master's in Computer Science,24.3,No,No,Yes,6.5
+176,Hofstra University, Hempstead ,MS in Computer Science,36.8,No,No,Yes,6.5
+177,Indiana State University, Terre Haute ,M.S. Computer Science,23.5,Yes,Yes,Yes,6.5
+178,Ohio University, Athens ,Master of Science in Computer Science,26.6,Yes,No,Yes,6.5
+179,Dartmouth College, Hanover ,MS in Computer Science,47.1,No,No,Yes,7.0
+180,The University of Mississippi, Oxford ,MS in Engineering Science (Computer Science),28.9,Yes,No,Yes,6.0
+181,St John's University, New York ,Master of Science in Computer Science,20.6,No,No,Yes,6.0
+182,South Dakota State University, Brookings ,Computer Science (M.S.),20.1,Yes,No,Yes,6.0
+183,Portland State University, Portland ,Master of Science in Computer Science,29.9,Yes,No,Yes,6.5
+184,The University of Southern Mississippi, Hattiesburg ,MS in Computer Science,17.1,Yes,No,Yes,6.0
+185,University of Tennessee, Knoxville ,MS in Computer Engineering,23.5,Yes,No,Yes,6.5
+186, Nova Southeastern University , Fort Lauderdale ,Master of Science in Computer Science (CSCI),18.1,No,No,Yes,6.0
+187,The University of West Florida, Pensacola ,Master of Science in Computer Science,25.5,Yes,No,Yes,6.0
+188,University of West Georgia, Atlanta ,Master of Science in Applied Computer Science,23.3,Yes,No,Yes,6.0
+189,University of South Alabama, Mobile ,MS in Computer and Information Sciences (Computer Science Option),23.5,Yes,No,Yes,6.0
+190,California State University - Chico Campus, Chico ,Master of Science in Computer Science,27.9,Yes,No,Yes,6.5
+191,University of Idaho, Moscow ,MS in Computer Science,35.2,Yes,No,Yes,6.5
+192,Emory University, Atlanta ,M.S. in Computer Science with concentration in Biomedical Informatics,35.0,No,No,Yes,7.0
+193,Brigham Young University, Provo ,MS in Computer Science,21.0,No,No,Yes,6.0
+194,Louisiana State University, Baton Rouge ,MS in Computer Science,31.8,Yes,No,Yes,6.5
+195,Colorado Technical University, City of Colorado Springs ,Master of Science in Computer Science,11.7,No,No,No,6.0
+196,Case Western Reserve University, Cleveland ,MSc Computer Science,31.8,No,No,Yes,6.5
+197,Vanderbilt University, Nashville ,"Computer Science, M.S.",33.2,No,No,Yes,6.5
+198,Clarkson University, Potsdam ,MS in Computer Science,35.3,No,No,Yes,6.5
+199,Michigan Technological University, Houghton ,Masters of Science in Electrical and Computer Engineering (STEM),30.3,Yes,No,Yes,6.5
+200,University of Arkansas, Fayetteville ,Master of Science in Computer Science (M.S.),27.7,Yes,No,Yes,6.5
+201,University of Oklahoma, Norman ,MS in Computer Science,18.7,Yes,No,Yes,6.5
+202,San Francisco Bay University, Fremont ,Master of Science in Computer Science,12.4,No,No,Yes,6.0
+203,University of Nebraska - Lincoln, Lincoln ,MS in Computer Science,32.9,Yes,No,Yes,7.0
+204,North Dakota State University, Fargo ,Master of Science in Software Engineering,14.2,Yes,No,Yes,6.5
+205,Queens College, New York ,Master of Arts (M.A.) in Computer Science,12.3,Yes,No,No,5.0
+206,Midwestern State University, Waco ,MS in Computer Science,24.3,Yes,No,Yes,6.0
+207,Oklahoma City University, Oklahoma City ,Master of Science in Computer Science,28.0,No,No,Yes,6.5
+208,Marist College, Poughkeepsie ,Master of Science in Computer Science - Software Development,19.6,No,No,Yes,6.5
+209,The University of New Mexico, Albuquerque ,Master of Science in Computer Science,34.8,Yes,No,Yes,6.5
+210,University of Michigan-Flint, Flint ,Master of Science (MS) in Computer Science and Information Systems,23.0,Yes,No,Yes,6.5
+211,Mississippi College, Clinton ,Master of Science in Computer Science,16.9,No,No,Yes,6.0
+212,University of Central Arkansas, Conway ,MS in Computer Science,19.1,Yes,No,Yes,6.5
+213,California State University Dominguez Hills, Carson ,MS in Computer Science (MSCS),20.5,Yes,No,Yes,6.5
+214,Old Dominion University, Norfolk ,Masters of Science in Computer Science,23.8,Yes,No,Yes,6.5
+215,Fordham University, Bronx ,Masters in Computer Science,31.6,No,No,Yes,6.5
+216,Tufts University, Medford ,M.S. in Computer Science,60.1,No,No,Yes,6.5
+217,"University of Nevada, Las Vegas", Las Vegas ,Master of Science in Computer Science,31.2,Yes,No,Yes,6.5
+218,University of Kentucky, Lexington ,Master of Science in Computer Science,37.6,Yes,No,Yes,6.5
+219,Hood College, Frederick ,MS in Computer Science,9.4,No,No,Yes,6.5
+220,Marshall University, Huntington ,Master of Science in Computer Science,22.5,Yes,No,Yes,6.5
+221,Texas Southern University, Houston ,M.S. in Computer Science,20.1,Yes,No,Yes,6.0
+222,University of Louisville, Louisville ,Master of Science in Computer Science,33.1,Yes,No,Yes,6.5
+223,Montana State University, Bozeman ,MS Computer Science,31.0,Yes,No,Yes,7.0
+224,Embry-Riddle Aeronautical University, Daytona Beach ,Master of Science in Software Engineering,30.4,No,No,Yes,6.0
+225,University of Texas at Tyler, Tyler ,Master of Science in Computer Science,25.4,Yes,No,Yes,6.5
+226,University of North Florida, Jacksonville ,M.S. in Computer and Information Sciences,17.0,Yes,No,Yes,6.5
+227,Oakland University, Rochester Hills ,Master of Science in Computer Science,23.6,Yes,No,Yes,6.5
+228,University of Wyoming, Laramie ,Master of Science in Computer Science,25.0,Yes,No,Yes,6.5
+229,University of North Carolina Wilmington, Wilmington ,M.S. Computer Science & Information Systems,31.7,Yes,No,Yes,6.5
+230,University of North Carolina at Greensboro, Greensboro ,Master of Science in Computer Science,27.7,Yes,No,Yes,6.5
+231,Duquesne University, Pittsburgh ,Master of Science in Computer Science,22.6,No,No,Yes,6.5
+232,California Polytechnic State University, San Luis Obispo ,M.S. Computer Science,28.8,Yes,No,Yes,6.5
+233,Maharishi International University, Fairfield ,M.S. in Computer Science,39.2,No,No,Yes,6.5
+234,East Tennessee State University, Johnson City ,MS Computer Science,20.7,Yes,No,Yes,6.5
+235,Northern Kentucky University, Highland Heights ,Master of Science in Computer Science,19.5,Yes,No,Yes,6.5
+236,Bowling Green State University, Bowling Green ,MS in Computer Science,19.7,Yes,No,Yes,6.5
+237,New Mexico State University, Las Cruces ,Master of Science in Computer Science,18.3,Yes,No,Yes,6.5
+238,"University of Nevada, Reno", Reno ,Master of Science in Computer Science and Engineering,28.7,Yes,No,Yes,6.5
+239,University of Colorado - Colorado Springs, City of Colorado Springs ,Master of Science in Computer Science,26.0,Yes,No,Yes,6.5
+240,Kentucky State University, Frankfort ,M.S. in Computer Science,15.7,Yes,No,Yes,6.0
+241,West Virginia University, Morgantown ,Master of Science in Computer Science,32.1,Yes,No,Yes,6.5
+242,Virginia Commonwealth University, Richmond ,Master of Science in Computer Science,36.1,Yes,No,Yes,6.5
+243,University of Tulsa, Tulsa ,MS in Computer Science,32.7,No,No,Yes,6.0
+244,Middle Tennessee State University, Murfreesboro ,Master of Science in Computer Science,37.8,Yes,No,Yes,6.0
+245,Roosevelt University, Chicago ,Master of Science in Computer Science,31.0,No,No,Yes,6.5
+246,Bridgewater State University, Bridgewater ,Master of Science in Computer Science,22.0,Yes,No,Yes,6.0
+247,Columbus State University, Milledgeville ,Master of Science in Applied Computer Science,22.4,Yes,No,Yes,6.5
+248,University of Nebraska Omaha, Omaha ,"Computer Science, MS",24.3,Yes,No,Yes,6.5
+249,University of New Orleans, New Orleans ,Master of Science in Computer Science,21.9,Yes,No,Yes,6.5
+250,North Carolina A & T State University, Greensboro ,Masters of Science in Computer Science,22.9,No,No,Yes,6.0
+251,Louisiana Tech University, Ruston ,Master of Science in Computer Science,14.4,Yes,No,Yes,6.5
+252,The University of Texas Rio Grand Valley, Brownsville ,Master of Science in Computer Science,24.9,Yes,No,Yes,6.5
+253,University of North Dakota, Grand Forks ,MS in Computer Science,29.5,Yes,No,Yes,6.0
+254,Tennessee Technological University, Cookeville ,MS in Computer Science,29.5,Yes,No,Yes,6.0
+255,City University of Seattle, Seattle ,Master of Science in Computer Science,26.9,No,No,Yes,6.5
+256,Georgia Southern University, Statesboro ,M.S. in Computer Science,30.0,Yes,No,Yes,6.5
+257,Lehigh University, Bethlehem ,MS in Computer Engineering,31.2,Yes,No,Yes,6.5
+258,The University of Akron, Akron ,MS Computer Science,19.3,Yes,No,Yes,6.5
+259,Howard University, Washington ,Master of Science in Computer Science (MSCS),38.4,No,No,Yes,6.5
+260,Mercer University, Macon ,M.S.E. Software Engineering / M.S. Software Systems,21.4,No,No,Yes,6.5
+261,International Technological University, Santa Clara ,Master of Science in Computer Science,18.4,No,No,No,6.0
+262,The College of Saint Rose, Albany ,MS in Computer Science,15.4,No,No,Yes,6.0
+263,Stratford University, City of Falls Church ,Master of Science in Software Engineering,17.1,No,No,No,6.5
+264,Villanova University, Radnor ,Master of Science in Computer Engineering,20.4,No,No,Yes,7.0
+265,Saint Joseph's University, Philadelphia ,MS in Computer Science,14.8,No,No,Yes,6.5
+266,Fairfield University, Fairfield ,M.S. in Software Engineering,17.9,No,No,Yes,6.5
+267,Worcester Polytechnic Institute, Worcester ,Master of Science in Computer Science,36.5,No,No,Yes,7.0
+268,California State University San Marcos, San Marcos ,Master of Science in Computer Science,26.5,Yes,No,Yes,6.0
+269,Alabama A & M University, Huntsville ,Master of Science in Computer Science,22.9,Yes,No,Yes,5.5
+270,University of Maine, Orono ,MS in Computer Engineering,31.9,Yes,No,Yes,6.5
+271,East Carolina University, Greenville ,Master of Science in Computer Science,19.7,Yes,No,Yes,6.5
+272,St Mary's University, San Antonio ,Master of Science in Computer Science,17.1,No,No,Yes,6.0
+273,Wentworth Institute of Technology, Boston ,Master of Science in Computer Engineering,47.7,No,No,Yes,6.5
+274,The University of Texas at EL Paso, El Paso ,Master of Science in Computer Engineering,22.7,Yes,No,Yes,6.5
+275,Pennsylvania State University Harrisburg, Harrisburg ,Master of Science in Computer Science,45.4,Yes,No,Yes,6.5
+276,Felician University, Rutherford ,Master’s in Computer Science,28.3,No,No,Yes,6.5
+277,Delaware State University, Dover ,Masters of Science in Computer Science,20.2,Yes,No,Yes,6.5
+278,Sonoma State University, Rohnert Park ,Master of Science in Computer and Engineering Science,26.3,Yes,Yes,Yes,7.0
+279,Western Kentucky University, Bowling Green ,Master of Science in Computer Science,23.9,Yes,No,Yes,6.5
+280,Rensselaer Polytechnic Institute, Troy ,M.S. in Computer Science,48.0,No,No,Yes,6.5
+281,University of Minnesota - Duluth Campus, Duluth ,Master of Science in Computer Science,30.7,Yes,No,Yes,6.5
+282,Kettering University, Flint ,Master of Science in Computer Engineering,27.0,No,No,Yes,6.0
+283,College of Staten Island CUNY, New York ,Master of Science in Computer Science,16.9,No,No,Yes,6.5
+284,California State University - Channel Island, Camarillo ,MS in Computer Science,21.3,Yes,No,Yes,6.5
+285,Florida Agricultural and Mechanical University, Tallahassee ,Masters of Science in Computer Science,15.3,Yes,No,Yes,6.5
+286,Polytechnic University of Puerto Rico, Miami ,Master of Computer Engineering,14.9,No,No,No,6.5
+287,Sofia University, San Francisco ,Master of Science in Computer Science (STEM),13.8,No,No,No,6.5
+288,Jackson State University, Jackson ,MS in Computer Science,15.3,Yes,No,Yes,6.5
+289,Fontbonne University, St. Louis ,Master of Science in Computer Science,20.6,No,No,Yes,6.0
+290,Colorado School of Mines, Golden ,M.S. in Computer Science,40.9,Yes,No,Yes,6.5
+291,Texas Woman's University, Denton ,Masters in Computer Sciences,19.0,Yes,Yes,Yes,6.5
+292,Southern Oregon University, Ashland ,Master of Science in Applied Computer Science,13.5,Yes,Yes,Yes,5.5
+293,Weber State University, Ogden ,MS in Computer Engineering,14.4,Yes,No,Yes,6.5
+294,Shippensburg University of Pennsylvania, Shippensburg ,Master of Science in Computer Science,18.9,Yes,Yes,Yes,6.0
+295,East Stroudsburg University of Pennsylvania, East Stroudsburg ,MS Computer Science,12.3,Yes,No,Yes,6.0
+296,Regis University, Denver ,M.S. Software Engineering,27.1,No,No,Yes,6.5
+297,Prairie View A&M University, Houston ,Master of Computer Science (MSCS),25.4,Yes,No,Yes,6.0
+298,University of Northern Iowa, Cedar Falls ,Master of Science in Computer Science,24.4,Yes,Yes,Yes,6.5
+299,Kutztown University, Kutztown ,Master of Science in Computer Science - Information Technology,12.2,Yes,No,Yes,6.5
+300,Appalachian State University, Boone ,Master of Science in Computer Science,16.8,Yes,No,Yes,6.5
+301,The University of Rhode Island, South Kingstown ,Master of Science in Computer Science,38.0,No,No,Yes,6.5
+302,Central Washington University, Ellensburg ,Computational Science Master’s Program,22.3,Yes,No,Yes,6.5
+303,Boise State University, Boise ,Master of Science in Computer Science,24.1,Yes,No,Yes,6.5
+304,Ball State University, Muncie ,Master's Degree in Computer Science,26.0,Yes,No,Yes,6.5
+305,Frostburg State University, Frostburg ,Master of Science in Applied Computer Science,13.5,Yes,No,Yes,6.0
+306,University of Alaska Fairbanks, Fairbanks ,MS in Computer Science,21.8,Yes,No,Yes,6.5
+307,Loyola University Maryland, Baltimore ,Master of Science in Computer Science,20.4,No,No,Yes,6.5
+308,Eastern Washington University, Cheney ,MS in Computer Science,30.2,Yes,Yes,Yes,7.0
+309,Washington State University - Vancouver Campus, Vancouver ,Master of Science in Computer Science,23.1,Yes,No,No,7.0
+310,Bowie State University, Bowie ,Master of Science in Computer Science,18.1,Yes,No,Yes,6.5
+311,Southern Polytechnic State University, Marietta ,MS in Computer Science,23.5,Yes,No,No,6.5
+312,West Chester University, West Chester ,M.S. in Computer Science,21.5,Yes,No,Yes,6.5
+313,Oregon Health and Science University, Portland ,Masters of Science in Computer Science and Engineering,20.1,Yes,No,No,6.0
+314,Mills College, Oakland ,Master in Computer Science,40.3,No,Yes,Yes,6.5
+315,Rose-Hulman Institute of Technology, Terre Haute ,Masters of Science in Software Engineering,37.1,No,Yes,Yes,7.0
